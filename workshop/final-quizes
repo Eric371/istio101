@@ -103,3 +103,21 @@ A. Yes.  B. No
     4. Envoy
 
 (Answer 2).
+
+1.What is a service mesh? (answer:3)
+   1 One or more containers 
+   2 A group of nodes 
+   3 A network of microservices
+   4  A type of authentication system 
+
+16 Telemetry in Istio can help you to pinpoint latency problems in microservices.
+Answer: True
+
+19 Istio can secure the communication between microservices without requiring app code changes.
+Answer: True
+
+20.in this course, what is an ingress?
+ 1 A collection of services 
+ 2 A collection of rules that allow inbound connections to reach the cluster services 
+ 3 A pathway to bypass disabled services 
+ (answer 2)
